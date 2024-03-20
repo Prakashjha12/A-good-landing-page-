@@ -95,8 +95,8 @@ html,body{
 #rbottom{
     width: 100%;
     height: 50%;
-    background-image: url(https://images.pexels.com/photos/693794/pexels-photo-693794.jpeg?auto=compress&cs=tinysrgb&w=1200);
-    background-size: cover;
+    background-image: url(https://prakashjha.com/page2-image1.png);
+    background-size: contain;
     background-position: center;
 
 }
